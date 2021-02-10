@@ -10,7 +10,7 @@ namespace UsingVCS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Yose mcc43");
+            Console.WriteLine("Yose mcc433");
         }
     }
 }
