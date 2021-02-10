@@ -11,6 +11,8 @@ namespace UsingVCS
         static void Main(string[] args)
         {
             Console.WriteLine("Asep Saputra");
+            Console.WriteLine("Yose mcc433");
+            Console.WriteLine("Ibnu");
         }
     }
 }
