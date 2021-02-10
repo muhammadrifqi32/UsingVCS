@@ -9,8 +9,10 @@ namespace UsingVCS
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             Console.WriteLine("Maximilian Yohannes");
+            Console.WriteLine("Yose mcc433");
+            Console.WriteLine("Ibnu");
         }
     }
 }
