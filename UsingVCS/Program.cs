@@ -10,7 +10,10 @@ namespace UsingVCS
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Chrys");
+            Console.WriteLine("Yose mcc433");
+            Console.WriteLine("Ibnu");
         }
     }
 }
